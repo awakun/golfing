@@ -1,0 +1,12 @@
+{
+    "powershell.codeFormatting.addWhitespaceAroundPipe": false,
+    "powershell.codeFormatting.alignPropertyValuePairs": false,
+    "powershell.codeFormatting.newLineAfterCloseBrace": false,
+    "powershell.codeFormatting.newLineAfterOpenBrace": false,
+    "powershell.codeFormatting.whitespaceAfterSeparator": false,
+    "powershell.codeFormatting.whitespaceAroundOperator": false,
+    "powershell.codeFormatting.whitespaceAroundPipe": false,
+    "powershell.codeFormatting.whitespaceBeforeOpenBrace": false,
+    "powershell.codeFormatting.whitespaceBeforeOpenParen": false,
+    "powershell.codeFormatting.whitespaceInsideBrace": false
+}
